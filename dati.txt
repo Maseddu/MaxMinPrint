@@ -1,2 +1,2 @@
-Valore massimo: 0
-Valore minimo: 0
+Valore massimo: 49
+Valore minimo: 7
