@@ -1,0 +1,2 @@
+Valore massimo: 0
+Valore minimo: 0
